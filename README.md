@@ -2,7 +2,7 @@
 ## 1. How to use in Linux System
 ### 1.1 Install Eigen
 Download repository from [Eigen offcial website](https://gitlab.com/libeigen/eigen/-/releases) \
-Unzip the source code, rename the folder to "Eigen", and put it in the following path.
+Unzip the source code, move only "Eigen" folder(and ignore other folders) to the following path.
 ```
 /usr/local/include/
 ```

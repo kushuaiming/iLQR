@@ -2,7 +2,7 @@
 ## 1. 在Linux如何环境下使用
 ### 1.1 安装 Eigen
 从[Eigen offcial website](https://gitlab.com/libeigen/eigen/-/releases)下载源码 \
-解压源码, 重命名为Eigen, 然后放入以下路径:
+解压源码, 将其中的Eigen文件夹(其他文件夹不用管)放入以下路径:
 ```
 /usr/local/include/
 ```
